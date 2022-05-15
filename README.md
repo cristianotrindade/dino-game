@@ -1,2 +1,2 @@
-#Desafio Digital Innovation One
-##Projeto Jogo Dino Game
+# Desafio Digital Innovation One<br>
+## Projeto Jogo Dino Game
